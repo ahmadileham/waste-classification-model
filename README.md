@@ -1,3 +1,8 @@
+# Fork by Ilham for Real-Time Systems assignment, Trash Sorting Robot using webots
+- The main idea is to classify trash into three categories, `recyclable`, `organic` and `others`.
+
+#
+
 # Final Project: Machine Learning Waste Classification Model
 
 **Project Members: Lareena Llamado, Kathy Manthey, Manuela Muñoz, Nicole Muscanell**
